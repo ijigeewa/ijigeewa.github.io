@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijigeewa.github.io/Ksg/sitemap_index.txt
+Sitemap: https://ijigeewa.github.io/OtD/sitemap_index.txt
+Sitemap: https://ijigeewa.github.io/iMx/sitemap_index.txt
+Sitemap: https://ijigeewa.github.io/jCe/sitemap_index.txt
